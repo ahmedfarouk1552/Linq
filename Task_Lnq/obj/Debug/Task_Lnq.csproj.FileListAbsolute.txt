@@ -1,0 +1,7 @@
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\bin\Debug\Task_Lnq.exe.config
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\bin\Debug\Task_Lnq.exe
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\bin\Debug\Task_Lnq.pdb
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\obj\Debug\Task_Lnq.csproj.AssemblyReference.cache
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\obj\Debug\Task_Lnq.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\obj\Debug\Task_Lnq.exe
+F:\iti\الأسبوع الحادي عشر\C#\D03\Task_Lnq\Task_Lnq\obj\Debug\Task_Lnq.pdb
